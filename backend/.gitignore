@@ -1,0 +1,8 @@
+Idea.png
+db.sqlite3
+backend/__pycache__
+base/migrations
+base/__pycache__
+
+base/movies_dict.pkl
+base/similarity.pkl

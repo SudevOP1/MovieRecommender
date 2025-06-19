@@ -1,0 +1,5 @@
+nbformat
+nbconvert
+django
+django-cors-headers
+jupyter

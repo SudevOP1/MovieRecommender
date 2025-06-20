@@ -1,6 +1,7 @@
 # MovieRecommender
 Search for a movie and get personalized recommendations along with poster images<br>
 It uses a similarity model and data from the TMDB API.<br>
+<br>
 
 ## 💡 What it does
 - Search from a movie from the dataset
